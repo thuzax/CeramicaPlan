@@ -14,7 +14,7 @@ Após o download do LibreOffice 7 é preciso dar permissão para que macros seja
 
 ## Instalação do MikTeX de Terceiros
 
-Para o uso da aplicação em sistemas Windows, é preciso instalar a versão completa do programa MikTeX. Para auxiliar na instalação, recomanda-se a seção de instalação da versão completa [deste guia](https://www.profmat.cefetmg.br/profmat/modelos-dissertacao/latex/instalacao-do-latex/).
+Para o uso da aplicação em sistemas Windows, é preciso instalar a versão completa do programa MikTeX. Para auxiliar na instalação, recomenda-se a seção de instalação da versão completa [deste guia](https://www.profmat.cefetmg.br/profmat/modelos-dissertacao/latex/instalacao-do-latex/).
 
 # *Disclaimer*
 
