@@ -49,6 +49,7 @@ Para um guia de compilação do código-fonte ou para detalhes para desenvolvedo
 # Links para guias
 
 - Guia de instalação do LibreOffice: https://pt-br.libreoffice.org/ajuda/instrucoes-de-instalacao/
+- Guia de instalação do MikTeX: https://www.profmat.cefetmg.br/profmat/modelos-dissertacao/latex/instalacao-do-latex/
 
 # Referências
 
