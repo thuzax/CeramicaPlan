@@ -4,6 +4,7 @@ Este projeto foi desenvolvido com o apoio da Fundação de Amparo à Pesquisa do
 
 O trabalho original de [Belleboni,2016](#1) teve como objetivo auxiliar a alocação de peças de cerâmica em um forno tridimensional. Nota-se que devido a característica do problema foi considerado que o forno poderia ser dividido em andares, de forma que o problema pudesse ser modelado como Nestings bidimensionais. Assim foi possível resolver o problema adaptando uma heurística *bottom-left*. A implementação da heurística se encontra [neste diretório](solver/bottom-left-heuristic-master/).
 
+# Requisitos
 
 ## Instalação do LibreOffice
 
@@ -15,6 +16,10 @@ Após o download do LibreOffice 7 é preciso dar permissão para que macros seja
 ## Instalação do MikTeX de Terceiros
 
 Para o uso da aplicação em sistemas Windows, é preciso instalar a versão completa do programa MikTeX. Para auxiliar na instalação, recomenda-se a seção de instalação da versão completa [deste guia](https://www.profmat.cefetmg.br/profmat/modelos-dissertacao/latex/instalacao-do-latex/).
+
+# Download e Utilização da aplicação
+
+Ao clicar [neste link](https://github.com/thuzax/CeramicaPlan/archive/refs/heads/main.zip) os arquivos presentes neste repositório serão baixados como um arquivo *zip*. Para utilizá-los basta descompactar o arquivo baixado e acessar a planilha *Fornada.ods* dentro da pasta.
 
 # *Disclaimer*
 
