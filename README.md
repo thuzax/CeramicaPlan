@@ -5,10 +5,6 @@ Este projeto foi desenvolvido com o apoio da Fundação de Amparo à Pesquisa do
 O trabalho original de [Belleboni,2016](#1) teve como objetivo auxiliar a alocação de peças de cerâmica em um forno tridimensional. Nota-se que devido a característica do problema foi considerado que o forno poderia ser dividido em andares, de forma que o problema pudesse ser modelado como Nestings bidimensionais. Assim foi possível resolver o problema adaptando uma heurística *bottom-left*. A implementação da heurística se encontra [neste diretório](solver/bottom-left-heuristic-master/).
 
 
-# Instalação
-
-Foi criado um instalador que realiza o download dos arquivos necessários para o uso do projeto. A seguir explica-se o que deve ser feito para a instalação.
-
 ## Instalação do LibreOffice
 
 Primeiramente é necessário ter a suíte de escritório LibreOffice 7 instalado. Caso não possua em seu sistema operacional [este guia](https://pt-br.libreoffice.org/ajuda/instrucoes-de-instalacao/) pode auxiliar na instalação. **Caso o LibreOffice 7 não esteja instalado, o download do projeto não será realizado**.
@@ -16,32 +12,9 @@ Primeiramente é necessário ter a suíte de escritório LibreOffice 7 instalado
 Após o download do LibreOffice 7 é preciso dar permissão para que macros sejam executadas no *LibreOffice Calc*.  Abra o LibreOffice Calc e no menu superior escolha a opção "Ferramentas", em seguida "Opções...". Na nova janela, no canto esquerdo, selecione no menu com título "LibreOffice" a opção "Segurança". Aperte o botão "Segurança de macros...", escolha a opção "Baixa" e confirme apertando o botão "OK".
 
 
-## Instalação da Planilha
+## Instalação do MikTeX de Terceiros
 
-### Windows
-
-Para o Sistema Operacional WINDOWS 11, faça o download do instalador clicando <a id="raw-url" href="https://raw.githubusercontent.com/thuzax/Projeto-Ceramica-Dev/main/instalador/instalador_win/INSTALDOR_WINDOWS_11.exe">neste link</a>. Após isso execute a aplicação como administrador e a instalação será feita (clique com o botão direito no arquivo e vá na opção "Executar como administrador").
-
-Se necessário será solicitado permissão para instalação de *softwares* que são utilizados pela aplicação. Confirme caso deseje que a instalação prossiga.
-
-A pasta do *software* ficará é salvo em *Documentos* e um atalho de nome "forno.ods" será criado na Área de Trabalho.
-
-Uma vez finalizada a instalação é possível inicializar a aplicação ao abrir o atalho com a aplicação LibreOffice Calc (clique com o botão direito no arquivo, vá na opção "Abrir com..." e selecione o LibreOffice Calc).
-
-
-### Linux
-
-Para o Sistema Operacional UBUNTU 22 ou 23, faça o download do instalador contido  <a id="raw-url" href="https://raw.githubusercontent.com/thuzax/Projeto-Ceramica-Dev/main/instalador/instalador_ubuntu/INSTALADOR_UBUNTU_22">neste link</a> e execute o instalador via terminal.
-
-Se necessário será solicitado permissão para instalação de *softwares* que são utilizados pela aplicação. Confirme caso deseje que a instalação prossiga.
-
-O *software* é salvo na pasta pessoal.
-
-
-## Softwares de Terceiros
-- Para a instalação do PDFLatex em sistemas Windows é necessário o download do *software* [MikTex](https://miktex.org/). O download e instalação deste *software* é realizado pelo instalador.
-- No sistema Ubuntu é necessária a instalação do pacote [PDFLatex](https://linux.die.net/man/1/pdflatex) e do pacote [UnZip](https://infozip.sourceforge.net/UnZip.html). O download e instalação deste pacote é realizado pelo instalador.
-
+Para o uso da aplicação em sistemas Windows, é preciso instalar a versão completa do programa MikTeX. Para auxiliar na instalação, recomanda-se a seção de instalação da versão completa [deste guia](https://www.profmat.cefetmg.br/profmat/modelos-dissertacao/latex/instalacao-do-latex/).
 
 # *Disclaimer*
 
@@ -51,9 +24,6 @@ Este projeto se utiliza dos seguintes programas terceiros sem nenhuma modificaç
 
 - PDFLatex
 - MikTex
-- curl
-- wget
-- UnZip
 
 Por fim, este projeto também se utiliza do trabalho de [Belleboni,2016](#1) com modificações em seu código-fonte.
 
