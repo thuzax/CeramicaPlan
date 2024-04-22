@@ -21,7 +21,7 @@ Para o uso da aplicação em sistemas Windows, é preciso instalar a versão com
 
 Ao clicar [neste link](https://github.com/thuzax/CeramicaPlan/archive/refs/heads/main.zip) os arquivos presentes neste repositório serão baixados como um arquivo *zip*.
 
-Após o *download* descompacte o arquivo e mova-o para a pasta *Meus Documentos*. Após isso, basta acessar a pasta e abrir o arquivo *Fornada.ods*
+Após o *download* descompacte o arquivo e mova-o para a pasta *Meus Documentos*. Para inicializar a aplicação basta acessar a pasta e abrir o arquivo *Fornada.ods*
 
 # *Disclaimer*
 
