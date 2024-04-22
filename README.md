@@ -17,9 +17,11 @@ Após o download do LibreOffice 7 é preciso dar permissão para que macros seja
 
 Para o uso da aplicação em sistemas Windows, é preciso instalar a versão completa do programa MikTeX. Para auxiliar na instalação, recomenda-se a seção de instalação da versão completa [deste guia](https://www.profmat.cefetmg.br/profmat/modelos-dissertacao/latex/instalacao-do-latex/).
 
-# Download e Utilização da aplicação
+# Download e Utilização da Aplicação
 
-Ao clicar [neste link](https://github.com/thuzax/CeramicaPlan/archive/refs/heads/main.zip) os arquivos presentes neste repositório serão baixados como um arquivo *zip*. Para utilizá-los basta descompactar o arquivo baixado e acessar a planilha *Fornada.ods* dentro da pasta.
+Ao clicar [neste link](https://github.com/thuzax/CeramicaPlan/archive/refs/heads/main.zip) os arquivos presentes neste repositório serão baixados como um arquivo *zip*.
+
+Após o *download* descompacte o arquivo e mova-o para a pasta *Meus Documentos*. Após isso, basta acessar a pasta e abrir o arquivo *Fornada.ods*
 
 # *Disclaimer*
 
