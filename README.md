@@ -44,7 +44,7 @@ Após o *download* descompacte o arquivo e mova-o para a pasta *Meus Documentos*
 
 # Licença
 
-A licença de uso deste projeto pode ser encontrada [aqui](LICENSE).
+A licença de uso deste projeto pode ser encontrada [aqui](LICENSE.md).
 
 # *Disclaimer*
 
