@@ -1,10 +1,28 @@
-# Projeto Cerâmica
+# CeramicaPlan
 
 Este projeto foi desenvolvido com o apoio da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP). Seu intuito de criar uma interface para o uso da heurística proposta por [Belleboni,2016](#1) para o problema de empacotamento de peças de cerâmica em fornos tridimensionais. A interface é uma planilha a ser utilizada pelo *software* [LibreOffice](#2) versão 7.
 
 O trabalho original de [Belleboni,2016](#1) teve como objetivo auxiliar a alocação de peças de cerâmica em um forno tridimensional. Nota-se que devido a característica do problema foi considerado que o forno poderia ser dividido em andares, de forma que o problema pudesse ser modelado como Nestings bidimensionais. Assim foi possível resolver o problema adaptando uma heurística *bottom-left*. A implementação da heurística se encontra [neste diretório](solver/bottom-left-heuristic-master/).
 
-# Requisitos
+# Manual do Usuário
+
+
+O Manual do Usuário contém um guia para a instalação e utilização do CeramicaPlan. Ele pode ser encontrado no diretório principal do projeto, porém ele pode ser baixado por meio [deste link](Manual%20de%20Uso.pdf).
+
+Este manual é recomendado para aqueles que desejam utilizar o CeramicaPlan.
+
+### TODO: atualizar o arquivo "Manual do Usuário.pdf" quando estiver revisado.
+
+
+# Memorial Técnico
+
+O Memorial Técnico contém detalhes de implementação do CeramicaPlan, incluindo descrição de algoritmos. Ele pode ser encontrado no diretório principal do projeto, porém ele pode ser baixado por meio [deste link](Memorial%20Técnico.pdf).
+
+Este manual é recomendado para aqueles que desejam alterar o código-fonte do CeramicaPlan.
+
+### TODO: adicionar o arquivo "Memorial Técnico.pdf" quando estiver revisado.
+
+<!-- # Requisitos
 
 ## Instalação do LibreOffice
 
@@ -21,7 +39,12 @@ Para o uso da aplicação em sistemas Windows, é preciso instalar a versão com
 
 Ao clicar [neste link](https://github.com/thuzax/CeramicaPlan/archive/refs/heads/main.zip) os arquivos presentes neste repositório serão baixados como um arquivo *zip*.
 
-Após o *download* descompacte o arquivo e mova-o para a pasta *Meus Documentos*. Para inicializar a aplicação basta acessar a pasta e abrir o arquivo *Fornada.ods*
+Após o *download* descompacte o arquivo e mova-o para a pasta *Meus Documentos*. Para inicializar a aplicação basta acessar a pasta e abrir o arquivo *Fornada.ods* -->
+
+
+# Licença
+
+A licença de uso deste projeto pode ser encontrada [aqui](LICENSE).
 
 # *Disclaimer*
 
@@ -34,27 +57,18 @@ Este projeto se utiliza dos seguintes programas terceiros sem nenhuma modificaç
 
 Por fim, este projeto também se utiliza do trabalho de [Belleboni,2016](#1) com modificações em seu código-fonte.
 
-# Licença
-
-A licença de uso deste projeto pode ser encontrada [aqui](LICENSE).
-
 # Atualizações e Correções
 
 Este projeto não prevê garantias de atualizações após sua conclusão. Os autores se isentam de qualquer responsabilidade de atualizar o Software, podendo ou não, de acordo com seu desejo, realizar modificações.
-
-
-# Para Desenvolvedores
-
-Para um guia de compilação do código-fonte ou para detalhes para desenvolvedores, acesse [este diretorio](https://github.com/thuzax/Projeto-Ceramica-Dev/blob/main/docs/).
-
-
-# Links para guias
-
-- Guia de instalação do LibreOffice: https://pt-br.libreoffice.org/ajuda/instrucoes-de-instalacao/
-- Guia de instalação do MikTeX: https://www.profmat.cefetmg.br/profmat/modelos-dissertacao/latex/instalacao-do-latex/
 
 # Referências
 
 <a id="1">Belleboni, Matheus G. S., 2016. </a> Aplicação web para empacotamento de peças de cerâmica em fornos tridimensionais. TCC (Graduação) - Bacharel em Ciência da Computação, Universidade de São Paulo, São Carlos - SP.
 
 <a id="2">Foundation, T.D., 2023</a> LibreOffice Calc. Disponível em: https://hub.libreoffice.org/credits/ (Acessado em 04/01/2024).
+
+# Autores
+
+Arthur Henrique Sousa Cruz
+
+Franklina M. B. Toledo
