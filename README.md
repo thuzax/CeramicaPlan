@@ -7,7 +7,7 @@ O trabalho original de [Belleboni,2016](#1) teve como objetivo auxiliar a aloca�
 # Manual do Usuário
 
 
-O Manual do Usuário contém um guia para a instalação e utilização do CeramicaPlan. Ele pode ser encontrado no diretório principal do projeto, porém ele pode ser baixado por meio [deste link](Manual%20de%20Uso.pdf).
+O Manual do Usuário contém um guia para a instalação e utilização do CeramicaPlan. Ele pode ser encontrado no diretório principal do projeto, porém ele pode ser baixado por meio [deste link](https://raw.githubusercontent.com/thuzax/CeramicaPlan/main/Manual\%20de\%20Uso.pdf).
 
 Este manual é recomendado para aqueles que desejam utilizar o CeramicaPlan.
 
@@ -16,7 +16,7 @@ Este manual é recomendado para aqueles que desejam utilizar o CeramicaPlan.
 
 # Memorial Técnico
 
-O Memorial Técnico contém detalhes de implementação do CeramicaPlan, incluindo descrição de algoritmos. Ele pode ser encontrado no diretório principal do projeto, porém ele pode ser baixado por meio [deste link](Memorial%20Técnico.pdf).
+O Memorial Técnico contém detalhes de implementação do CeramicaPlan, incluindo descrição de algoritmos. Ele pode ser encontrado no diretório principal do projeto, porém ele pode ser baixado por meio [deste link](https://raw.githubusercontent.com/thuzax/CeramicaPlan/main/Memorial%20Técnico.pdf).
 
 Este manual é recomendado para aqueles que desejam alterar o código-fonte do CeramicaPlan.
 
